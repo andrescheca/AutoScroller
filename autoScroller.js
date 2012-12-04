@@ -1,4 +1,4 @@
-var frecuencia = 500;
+var frecuencia = 250; // original 500
 var cantidadLineas = 1;
 var offset = {right: '20px', top: '20px'};
 var scrollerDiv = document.createElement('div');
